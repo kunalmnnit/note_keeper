@@ -1,10 +1,8 @@
-# note_keeper
+# Note Keeper
 
-A new Flutter application.
+A Simple Note keeping app using SQFlite DB as a starting point in flutter.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
